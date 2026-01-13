@@ -159,13 +159,3 @@ The application uses mock data stored in `src/mockData.ts`. This data is mutated
 
 ### Type Safety
 The entire application is typed with TypeScript, ensuring type safety across components, API routes, and state management.
-
-## Future Improvements
-
-- Database integration to replace mock data
-- User authentication
-- Real-time updates via WebSockets
-- Export functionality
-- Advanced filtering options
-- Search functionality
-- Bulk operations
